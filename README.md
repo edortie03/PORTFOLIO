@@ -40,7 +40,7 @@ portfolio/
 To run this project locally:
 
 1. Clone the repository
-   ```bash
+```bash
    git clone https://github.com/edortie03/PORTFOLIO.git
 ````
 
