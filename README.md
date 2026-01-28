@@ -46,9 +46,9 @@ To run this project locally:
 
 2. Navigate into the project folder
 
-   ```bash
+```bash
    cd PORTFOLIO
-   ```
+```
 3. Open `index.html` in your browser
 
 No installations or dependencies required ✅
@@ -83,5 +83,3 @@ This project is open source and available under the **MIT License**.
 
 **Edward Denis**
 Aspiring Software Developer | Web & Systems Enthusiast | Sysytem Analyst & Designer
-
-```
