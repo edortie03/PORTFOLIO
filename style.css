@@ -20,20 +20,7 @@
         --transition: all 0.3s ease;
     }
 
-    .light-mode {
-        /* Light theme colors */
-        --primary-dark: #f5f7fa;
-        --secondary-dark: #ffffff;
-        --accent-cyan: #00b894;
-        --accent-purple: #6c5ce7;
-        --accent-blue: #0984e3;
-        --text-primary: #2d3436;
-        --text-secondary: #636e72;
-        --glass-bg: rgba(255, 255, 255, 0.7);
-        --glass-border: rgba(0, 184, 148, 0.1);
-        --shadow: rgba(99, 99, 99, 0.1);
-    }
-
+    
     html {
         scroll-behavior: smooth;
     }
